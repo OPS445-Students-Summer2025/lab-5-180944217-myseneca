@@ -15,9 +15,9 @@ def read_file(filename):
         return 'error: could not read file'
 
 if __name__ == '__main__':
-    print(add(10, 5))                  # works
-    print(add('10', 5))                # works
-    print(add('abc', 5))               # exception
-    print(read_file('seneca2.txt'))   # works
-    print(read_file('file10000.txt')) # exception
+    print(add(10, 5))                  
+    print(add('10', 5))                
+    print(add('abc', 5))               
+    print(read_file('seneca2.txt'))   
+    print(read_file('file10000.txt')) 
 
