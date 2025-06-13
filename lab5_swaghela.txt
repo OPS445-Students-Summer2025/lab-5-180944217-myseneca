@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab5.py
+=================================================================
+    User login name: swaghela
+    Linux system name: WIN-H6UCAG0H7TS
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /mnt/c/ops445/lab5/lab-5-180944217-myseneca
+    Start at: Fri Jun 13 14:34:45 2025
+=================================================================
